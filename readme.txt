@@ -2,7 +2,7 @@ MiniGit
 Alex Pedersen
 CSCI 2270
 
-This version Git includes four main features: adding files, removing files, committing changes, and checking out previous commits.
+This version of Git includes four main features: adding files, removing files, committing changes, and checking out previous commits.
 They are each implemented as directed by the project description.
 
 To add a file, the user selects option one and enters a valid filename. The file is then tracked by the program.
