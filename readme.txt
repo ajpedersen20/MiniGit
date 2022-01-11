@@ -17,3 +17,5 @@ To checkout a previous commit, the user should select option 4. The program will
 that were committed with that commit number will be restored to the versions stored in the commit.
 
 The program ends when the user selects option 5 from the main menu.
+
+I developed this project using C++ within a WSL2 environment.
